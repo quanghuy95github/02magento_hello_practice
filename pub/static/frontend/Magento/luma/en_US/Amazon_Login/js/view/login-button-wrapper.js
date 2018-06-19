@@ -1,0 +1,1 @@
+/var/www/html/magento2_data/vendor/amzn/amazon-pay-and-login-magento-2-module/src/Login/view/frontend/web/js/view/login-button-wrapper.js
